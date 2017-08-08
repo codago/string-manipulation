@@ -1,5 +1,5 @@
 function stringManipulation(word) {
-  var prefik = "asyik";
+  var prefik = "nyo";
   var tempWord = "";
   var vocal = "aiueo";
 
