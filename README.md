@@ -1,2 +1,3 @@
-# string-manipulation
-challange #5
+# String Manipulation
+
+## challenge #5
